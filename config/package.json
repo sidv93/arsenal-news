@@ -1,0 +1,18 @@
+{
+  "name": "arsenal",
+  "version": "1.0.0",
+  "description": "arsenal news application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "siddharth venkatesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongodb": ">= 0.9.6-7",
+    "mongoose": "~4.10.6",
+    "body-parser" : "~1.4.2",
+    "method-override" : "~2.0.2"
+  }
+}
